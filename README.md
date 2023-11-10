@@ -1,7 +1,7 @@
 # ecommerce-website-management-system
 Web based E-Commerce Website for a company created using HTML, CSS, PHP and SQL
 
-This is a web-based E-Commerce store developed as a part of my university project. The system allows users to view for avaiable products and allows the suppliers to add, delete and view the products. The admin has the capability of adding users/suppliers and removing them too. This system is developed using HTML, Bootstrap, CSS, JS, PHP ans SQL.
+This is a web-based E-Commerce store developed as a part of my university project. The system allows users to view for avaiable products and allows the suppliers to add, delete and view the products. The admin has the capability of adding users/suppliers and removing them too. This system is developed using HTML, Bootstrap, CSS, JS, PHP and SQL.
 
 Features:
 	
